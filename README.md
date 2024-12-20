@@ -17,16 +17,22 @@ With a strong foundation in Python, SQL, Power BI, and Excel, I enjoy exploring 
 ## 🛠️ My Skillset  
 
 ### **Programming Languages**  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)  
+- [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)  
+- [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)  
+- [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)  
 
 ### **Data Analysis & Visualization Tools**  
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)  
-- ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+- [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/)  
+- [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)  
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)](https://matplotlib.org/stable/contents.html)  
+- [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)](https://seaborn.pydata.org/)  
+- [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)  
+- [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)  
+
+### **Version Control & Collaboration**  
+- [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)  
 
 ### **Soft Skills**  
 - Strong analytical mindset  
