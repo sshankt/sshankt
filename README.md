@@ -78,7 +78,7 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
   <a href="https://github.com/sshankt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://github.com/sshankt/sshankt_resume/blob/main/Resume_Shahansk_Tiwari.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1Sco3QBwQSEoljpOPa8sjPLRLKtRVTBYP/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
   </a>
 </p>
