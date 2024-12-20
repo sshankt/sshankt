@@ -37,17 +37,17 @@ With a strong foundation in Python, SQL, Power BI, and Excel, I enjoy exploring 
 
 ## 📊 Real-World Projects  
 
-### 🔹 [Diwali Sales Data Analysis](https://github.com/yourusername/diwali-sales-analysis)  
+### 🔹 [Diwali Sales Data Analysis](https://github.com/sshankt/Diwali_Sales_data)  
 - **Objective:** Analyzed consumer behavior to uncover trends and drive sales strategies.  
 - **Key Insights:** Identified top-spending demographics, peak sales periods, and effective marketing strategies.  
 - **Tools Used:** Python, Pandas, Matplotlib, Seaborn  
 
-### 🔹 [Vrinda Store Sales Analysis](https://github.com/yourusername/vrinda-store-sales-analysis)  
+### 🔹 [Vrinda Store Sales Analysis](https://github.com/sshankt/Vrinda_sales_Dashboard)  
 - **Objective:** Identified the most profitable customer segments and key sales channels.  
 - **Key Insights:** Targeted marketing strategies for women aged 30–49 in top-contributing states.  
 - **Tools Used:** Excel  
 
-### 🔹 [HR Analytics for Employee Attrition](https://github.com/yourusername/hr-analytics-attrition)  
+### 🔹 [HR Analytics for Employee Attrition](https://github.com/sshankt/HR_Analytics_PowerBi)  
 - **Objective:** Uncovered patterns in employee attrition and provided actionable recommendations.  
 - **Key Insights:** Retention strategies based on department-specific trends.  
 - **Tools Used:** Power BI, Excel  
@@ -56,9 +56,9 @@ With a strong foundation in Python, SQL, Power BI, and Excel, I enjoy exploring 
 
 ## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sshankt/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.corpconnect@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshankt)  
 
 ---
 
