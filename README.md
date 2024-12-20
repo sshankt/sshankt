@@ -78,6 +78,9 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
   <a href="https://github.com/sshankt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://github.com/sshankt/sshankt_resume/blob/main/Resume_Shahansk_Tiwari.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 ---
@@ -85,8 +88,8 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sshankt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshankt&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -99,4 +102,4 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
 
 ### ✨ My Motto  
 
-Helping businesses succeed, one dataset at a time!  
+Helping businesses succeed, one dataset at a time!
