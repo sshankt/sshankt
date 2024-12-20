@@ -14,7 +14,7 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
 ### 🛠️ Technical Skills  
 #### **Programming Languages**  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)  
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)  
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)  
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)  
 
@@ -38,32 +38,44 @@ I am a **B.Tech (CSE)** student at **Dr. APJ Abdul Kalam Technical University (A
 - **Objective:** Analyzed consumer behavior to uncover trends and optimize marketing strategies.  
 - **Key Insights:** Identified top-spending demographics and sales periods.  
 - **Tools Used:** Python, Pandas, Matplotlib, Seaborn  
-- [🔗 Project Repository](https://github.com/yourusername/diwali-sales-analysis)  
+- [🔗 Project Repository](https://github.com/sshankt/Diwali_Sales_data)  
 
 #### 🛒 **Vrinda Store Sales Analysis**  
 - **Objective:** Identified key customer segments and sales channels to boost profits.  
 - **Key Insights:** Targeted strategies for women aged 30–49 in top-performing states.  
 - **Tools Used:** Excel  
-- [🔗 Project Repository](https://github.com/yourusername/vrinda-store-sales-analysis)  
+- [🔗 Project Repository](https://github.com/sshankt/Vrinda_sales_Dashboard)  
 
 #### 👨‍💼 **HR Analytics for Employee Attrition**  
 - **Objective:** Uncovered patterns in employee attrition to improve retention.  
 - **Key Insights:** Tailored retention strategies for different departments.  
 - **Tools Used:** Power BI, Excel  
-- [🔗 Project Repository](https://github.com/yourusername/hr-analytics-attrition)  
+- [🔗 Project Repository](https://github.com/sshankt/HR_Analytics_PowerBi)  
+
+#### 🏬 **Super Store Sales Dashboard (Power BI)**  
+- **Objective:** Developed an interactive Power BI dashboard to analyze sales performance, inventory, and customer data.  
+- **Key Insights:** Provided visual insights on sales trends, top-performing products, and regional performance.  
+- **Tools Used:** Power BI  
+- [🔗 Project Repository](https://github.com/sshankt/Super_store_dashboard)  
+
+#### 🏨 **Hotel Cancellation Data Analysis (EDA)**  
+- **Objective:** Performed exploratory data analysis (EDA) on hotel booking cancellation data.  
+- **Key Insights:** Identified factors influencing cancellations such as lead time, market segment, and booking type.  
+- **Tools Used:** Python, Pandas, Seaborn, Matplotlib  
+- [🔗 Project Repository](https://github.com/sshankt/Hotel_cancellation_Analysis)  
 
 ---
 
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sshankt/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:shashank.corpconnect@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/sshankt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
